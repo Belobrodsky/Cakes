@@ -1,0 +1,6 @@
+H:\Белобродский\С#\Cakes\Cakes\Cakes\bin\Debug\Cakes.exe.config
+H:\Белобродский\С#\Cakes\Cakes\Cakes\bin\Debug\Cakes.exe
+H:\Белобродский\С#\Cakes\Cakes\Cakes\bin\Debug\Cakes.pdb
+H:\Белобродский\С#\Cakes\Cakes\Cakes\obj\Debug\Cakes.csprojResolveAssemblyReference.cache
+H:\Белобродский\С#\Cakes\Cakes\Cakes\obj\Debug\Cakes.exe
+H:\Белобродский\С#\Cakes\Cakes\Cakes\obj\Debug\Cakes.pdb
